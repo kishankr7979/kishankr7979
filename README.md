@@ -10,5 +10,6 @@ My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
 ![](https://img.shields.io/badge/<TOOLS>-<ECLIPSE__XCODE__MATLAB__SUBLIME>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <br>
 <br>
+![Github stats](https://github-readme-stats.vercel.app/api?username=kishankr7979)
 
 
