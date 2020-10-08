@@ -11,5 +11,7 @@ My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
 <br>
 <br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kishankr7979)
+<br>
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kishankr7979&repo=TheDumpArea)
 
 
