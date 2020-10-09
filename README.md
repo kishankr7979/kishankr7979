@@ -1,6 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major.
+My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
+->Having good grasp over C++ & DS, Algo, also having experience in Web Development
 <br>
 <br>
 
@@ -16,6 +17,6 @@ My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
 <br>
 <br>
 <br>
-![counter](https://[YourEndpoint].m.pipedream.net)
+<!--![counter](https://[YourEndpoint].m.pipedream.net)-->
 
 
