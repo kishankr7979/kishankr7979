@@ -7,6 +7,12 @@ My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
 <br>
 -> Github Student Developer
 <br>
+<h2 id="user-content-social">
+    Social &nbsp;
+    <a href="mailto:undefined.kishan@gmail.com"><img src="https://img.shields.io/badge/-arvind160102261@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="http://bit.ly/asr_linkedin"><img src="https://img.shields.io/badge/-Kishan%20Kumar-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
+</h2>
+<br>
 <br>
 
 ![](https://img.shields.io/badge/<Programming_Languages>-<C__C++__Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
