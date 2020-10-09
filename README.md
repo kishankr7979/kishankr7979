@@ -2,7 +2,10 @@
 
 My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
 <br>
-->Having good grasp over C++ & DS, Algo, also having experience in Web Development
+<br>
+-> Having good grasp over C++ & DS, Algo, also having experience in Web Development
+<br>
+-> Github Student Developer
 <br>
 <br>
 
@@ -14,7 +17,7 @@ My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
 <br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kishankr7979)
 <br>
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kishankr7979&repo=TheDumpArea)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kishankr7979&repo=placements4u)
 <br>
 <br>
 <br>
