@@ -10,7 +10,7 @@ My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
 <h2 id="user-content-social">
     Social &nbsp;
     <a href="mailto:undefined.kishan@gmail.com"><img src="https://img.shields.io/badge/-undefined.kishan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="http://bit.ly/asr_linkedin"><img src="https://img.shields.io/badge/-Kishan%20Kumar-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/kishan-kumar-12052a168/"><img src="https://img.shields.io/badge/-Kishan%20Kumar-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
 </h2>
 <br>
 <br>
