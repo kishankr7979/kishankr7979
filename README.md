@@ -29,6 +29,7 @@ My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
 ![](https://img.shields.io/badge/<Web_Technologies>-<HTML5__CSS3__JS__Bootstrap__jquery>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<OS>-<MAC__WINDOWS__LINUX>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<TOOLS>-<ECLIPSE__XCODE__MATLAB__SUBLIME>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Web>-<AWS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <br>
 <br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kishankr7979)
