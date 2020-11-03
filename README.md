@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" color = "grey">
 
 My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
 <br>
@@ -11,7 +11,7 @@ My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
 <br>
 -> 5* in C++ at Hackerrank
 <br>
--> Ranked #8 on GFG in DIT University
+-> Ranked #6 on GFG in DIT University
 <br>
 -> Ranked #1 on InterviewBit in 2022 Batch at DIT University
 <br>
