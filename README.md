@@ -5,7 +5,7 @@ My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
 <br>
 -> Open for SDE, SWE, Embedded SW, Tech analyst intern roles.
 <br>
--> Having good grasp over C++ & DS, Algo, also having experience in Web Development
+-> Having good grasp over C++ & DS Algo, also having experience in Web Development
 <br>
 -> Github Student Developer
 <br>
