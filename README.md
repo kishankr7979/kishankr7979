@@ -11,7 +11,7 @@ My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
 <br>
 -> 5* in C++ at Hackerrank
 <br>
--> Ranked #6 out of 750 Students on GFG in DIT University
+-> Ranked #5 out of 750 Students on GFG in DIT University
 <br>
 -> Ranked #1 on InterviewBit in 2022 Batch at DIT University
 <br>
