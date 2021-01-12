@@ -17,6 +17,8 @@ My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
 <br>
 -> Open-Source
 <br>
+-> 3* on Leetcode
+<br>
 <h2 id="user-content-social">
     Social &nbsp;
     <a href="mailto:undefined.kishan@gmail.com"><img src="https://img.shields.io/badge/-undefined.kishan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
