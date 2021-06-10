@@ -19,7 +19,7 @@ My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
 <br>
 -> 3* on Leetcode
 <br>
--> System Desing
+-> System Design - LLD, HLD, Distributed System
 <br>
 <h2 id="user-content-social">
     Social &nbsp;
