@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" color = "grey">
-## Access my Resume -> [Resume](https://drive.google.com/file/d/16E46pfcB8KxGFrki3QdQhDBzce4rTbUX/view?usp=sharing)
+## Access my Resume -> [Kishan](https://drive.google.com/file/d/16E46pfcB8KxGFrki3QdQhDBzce4rTbUX/view?usp=sharing)
 ---
 
 My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
