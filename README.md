@@ -5,7 +5,7 @@
 My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
 <br>
 <br>
--> Open for SDE, SWE, Embedded SW, Tech analyst intern roles.
+-> Software Engineer Intern at BukuWarung (YC S20)
 <br>
 -> Having good grasp over C++ & DS Algo, also having experience in Web Development
 <br>
