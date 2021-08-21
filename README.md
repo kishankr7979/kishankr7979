@@ -21,6 +21,8 @@ My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
 <br>
 -> 3* on Leetcode
 <br>
+->3* on CodeChef
+<br>
 -> System Design - LLD, HLD, Distributed System
 <br>
 
