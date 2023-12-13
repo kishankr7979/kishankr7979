@@ -5,7 +5,7 @@
 My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
 <br>
 <br>
--> Software Engineer 1 - Frontend at BukuWarung (YC S20)
+-> Software Engineer 2 - Frontend at BukuWarung (YC S20)
 <br>
 -> Having good grasp over React.js, Next.js, JavaScript, Node.js
 <br>
