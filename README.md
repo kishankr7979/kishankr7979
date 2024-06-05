@@ -1,55 +1,67 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" color = "grey">
-## Access my Resume -> [Kishan-Resume](https://drive.google.com/file/d/1J6kgGD9TO_gjpFbZYm1500N-NhjP9e1y/view?usp=sharing)
----
+### Hey 👋, I'm Kishan.
 
-My Name is Kishan Kumar, Currently an Engineering Undergrad in Electronics Major
-<br>
-<br>
--> Software Engineer 2 - Frontend at BukuWarung (YC S20)
-<br>
--> Having good grasp over React.js, Next.js, JavaScript, Node.js
-<br>
--> Developer Program Member
-<br>
--> 5* in C++ at Hackerrank
-<br>
--> Ranked #2 out of 1025 Students on GFG in DIT University
-<br>
--> Ranked #1 on InterviewBit in 2022 Batch at DIT University
-<br>
--> Open-Source
-<br>
--> 3* on Leetcode
-<br>
-->3* on CodeChef
-<br>
--> System Design - LLD, HLD, Distributed System
-<br>
+<a href="https://www.linkedin.com/in/kishan-k-12052a168/">
+  <img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
+</a>
+<a href="hhttps://leetcode.com/u/kishankr_0210/">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://github.com/kishankr7979/">
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://mail.google.com/ " mailto="kishankr.0210@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+</a>
 
-<h2 id="user-content-social">
-    Social &nbsp;
-    <a href="mailto:undefined.kishan@gmail.com"><img src="https://img.shields.io/badge/-undefined.kishan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/></a><a href="mailto:kishankr.0210@gmail.com">
-    <img src="https://img.shields.io/badge/-kishankr.0210@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/kishan-kumar-12052a168/"><img src="https://img.shields.io/badge/-Kishan%20Kumar-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
-</h2>
-<br>
-<br>
+<br />
+<br />
 
-![](https://img.shields.io/badge/<Programming_Languages>-<C__C++__Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Web_Technologies>-<HTML5__CSS3__JS__Bootstrap__React.Js__Node.Js>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<OS>-<MAC__WINDOWS__LINUX>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<TOOLS>-<ECLIPSE__Git__Github__XCODE__MATLAB__SUBLIME>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Web>-<AWS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-<br>
-<br>
-![Github stats](https://github-readme-stats.vercel.app/api?username=kishankr7979)
-<br>
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kishankr7979&repo=React-codebase-placements4u)
-<br>
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kishankr7979&repo=TheDumpArea)
-<br>
-<br>
-<br>
-<!--![counter](https://[YourEndpoint].m.pipedream.net)-->
+- I am a **Programming rookie** 
+- I like to use a variety of useful **computer software** and build  **scalable products.**
+- I also like **football, football & football** 
+- I used to dream of being a writer.But **the reality made me have to learn a technology💻,**
+- and I also came into contact with **programming**.
+- Although I was **not interested** in it at the beginning,
+- **luckily I slowly fell in love with it. ❤️**
+
+<img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/offer.jpg" />
+
+**Talking about Personal Stuffs:**
+
+- 👨‍🏛 I am currently working as Software Engineer 2 at BukuWarung.
+- 💻 Major is **Electronics & Communication**.
+- 🤔 My hobbies are **playing football and Travelling**.
+- 💼 I am an **obsessive-compulsive disorder**.
+- 💬 If you have any questions, **just ask me**.
 
 
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="Jackyu" />
+
+**Technology being learned**
+
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jquery.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
+
+
+📊 **My recent programming status:**
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
