@@ -29,7 +29,6 @@
 - 👨‍🏛 I am currently working as Software Engineer 2 at BukuWarung.
 - 💻 Major is **Electronics & Communication**.
 - 🤔 My hobbies are **playing football and Travelling**.
-- 💼 I am an **obsessive-compulsive disorder**.
 - 💬 If you have any questions, **just ask me**.
 
 
@@ -43,7 +42,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="Jackyu" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=kishankr7979&count_private=true&show_icons=true" alt="Jackyu" />
 
 **Technology being learned**
 
