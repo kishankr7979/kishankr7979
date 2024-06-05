@@ -24,8 +24,6 @@
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️**
 
-<img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/offer.jpg" />
-
 **Talking about Personal Stuffs:**
 
 - 👨‍🏛 I am currently working as Software Engineer 2 at BukuWarung.
